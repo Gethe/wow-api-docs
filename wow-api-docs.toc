@@ -1,0 +1,7 @@
+## Interface: 70100
+## Title: WoW API Docs
+## Notes: A graphical interface for Blizzard's API Documentation
+## LoadWith: Blizzard_APIDocumentation
+## LoadOnDemand: 1
+
+wow-api-docs.lua
