@@ -3,7 +3,7 @@ WoW API Docs
 
 An in-game graphical browser for [Blizzard's API Documentation](https://github.com/Gethe/wow-ui-source/tree/ptr/AddOns/Blizzard_APIDocumentation)
 
-Once instealled, type `/api gui` to open.
+Once installed, type `/api gui` to open.
 
 
 ## To Do ##
